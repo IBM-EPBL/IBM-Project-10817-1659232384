@@ -1,4 +1,4 @@
-INTRODUCTION
+# INTRODUCTION
 	
 Parkinson’s disease is a progressive neurological disorder that affects a person’s ability to control movement. The patient suffers from tremor, slow
 movements, trouble walking and maintaining body balance, stiffness of arms and legs. As the disease worsens there will be issues in sleeping which may cause mental and
@@ -10,7 +10,7 @@ To detect the Parkinson's disease is a tedious process. More than 10 million peo
 studies, men are 50% more prone to the disease than women. This disease is most common among the 60+ age category. Unfortunately, this cannot be cured but, early
 detection along with proper medication can significantly improve symptoms and quality of life. 
 
-Detecting Parkinson’s Disease using Machine Learning
+# Detecting Parkinson’s Disease using Machine Learning
 
 The main reason for Parkinson’s Disease is due to abnormal loss of neurons. The researchers found that the drawing speed was slower and the pen pressure is low
 among the patients. One of the indications of Parkinson’s is tremors and rigidity in the muscles, making it difficult to draw smooth spirals and waves. It is possible
